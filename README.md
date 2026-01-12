@@ -19,3 +19,8 @@ If you are developing a production application, we recommend using TypeScript wi
 Added testing branch feature
 
 added new futures to the code
+
+
+
+Testing release notes
+and this is the testing part of work
