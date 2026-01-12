@@ -3,24 +3,29 @@
 changelog:
   exclude:
     labels:
-      - ignore-for-release
+      - duplicate
+      - invalid
+      - question
+      - wontfix
+      - good first issue
+      - help wanted
     authors:
       - dependabot
+
   categories:
     - title: 🚀 New Features
       labels:
         - enhancement
-        - feature
 
     - title: 🐛 Bug Fixes
       labels:
         - bug
-        - fix
 
-    - title: 📦 Dependencies
+    - title: 📘 Documentation
       labels:
-        - dependencies
+        - documentation
 
     - title: 📝 Other Changes
       labels:
         - "*"
+
